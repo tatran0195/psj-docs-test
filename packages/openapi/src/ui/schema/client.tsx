@@ -15,7 +15,7 @@ import {
   useRef,
   useState,
 } from 'react';
-import { Tabs, TabsContent, TabsList, TabsTrigger } from 'fumadocs-ui/components/tabs';
+import { Tabs, TabsContent, TabsList, TabsTrigger } from '@fumadocs/base-ui/components/tabs';
 import { useTranslations } from '@/ui/client/i18n';
 import type {
   InfoTag,
@@ -27,11 +27,11 @@ import {
   Collapsible,
   CollapsibleContent,
   CollapsibleTrigger,
-} from 'fumadocs-ui/components/ui/collapsible';
-import { buttonVariants } from 'fumadocs-ui/components/ui/button';
+} from '@fumadocs/base-ui/components/ui/collapsible';
+import { buttonVariants } from '@fumadocs/base-ui/components/ui/button';
 import { ChevronDown, FilterIcon } from 'lucide-react';
 import { Badge } from '@/ui/components/method-label';
-import { Popover, PopoverContent, PopoverTrigger } from 'fumadocs-ui/components/ui/popover';
+import { Popover, PopoverContent, PopoverTrigger } from '@fumadocs/base-ui/components/ui/popover';
 import { cn } from '@/utils/cn';
 import { cva } from 'class-variance-authority';
 

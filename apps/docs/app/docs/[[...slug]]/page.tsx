@@ -1,8 +1,8 @@
 import type { Metadata } from 'next';
 import { type ComponentProps, type FC, type ReactNode } from 'react';
 import * as Twoslash from 'fumadocs-twoslash/ui';
-import { Callout } from 'fumadocs-ui/components/callout';
-import { TypeTable } from 'fumadocs-ui/components/type-table';
+import { Callout } from '@fumadocs/base-ui/components/callout';
+import { TypeTable } from '@fumadocs/base-ui/components/type-table';
 import * as Preview from '@/components/preview';
 import { createMetadata, getPageImage } from '@/lib/metadata';
 import { source } from '@/lib/source';
@@ -13,9 +13,9 @@ import { onBlockFeedbackAction, onPageFeedbackAction, owner, repo } from '@/lib/
 import { HoverCard, HoverCardContent, HoverCardTrigger } from '@/components/ui/hover-card';
 import Link from 'fumadocs-core/link';
 import { findSiblings } from 'fumadocs-core/page-tree';
-import { Card, Cards } from 'fumadocs-ui/components/card';
+import { Card, Cards } from '@fumadocs/base-ui/components/card';
 import { getMDXComponents } from '@/components/mdx';
-import { Banner } from 'fumadocs-ui/components/banner';
+import { Banner } from '@fumadocs/base-ui/components/banner';
 import { Installation } from '@/components/preview/installation';
 import { Customisation } from '@/components/preview/customisation';
 import {
@@ -24,7 +24,7 @@ import {
   PageLastUpdate,
   MarkdownCopyButton,
   ViewOptionsPopover,
-} from 'fumadocs-ui/layouts/docs/page';
+} from '@fumadocs/base-ui/layouts/docs/page';
 import { NotFound } from '@/components/layouts/not-found';
 import { getSuggestions } from './suggestions';
 import { PathUtils } from 'fumadocs-core/source';

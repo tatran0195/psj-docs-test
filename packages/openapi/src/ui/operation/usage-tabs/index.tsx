@@ -8,7 +8,7 @@ import {
   CodeBlockTabs,
   CodeBlockTabsList,
   CodeBlockTabsTrigger,
-} from 'fumadocs-ui/components/codeblock';
+} from '@fumadocs/base-ui/components/codeblock';
 import { ResponseTabs } from '../response-tabs';
 import { registerDefault } from '@/requests/generators/all';
 import { useMemo } from 'react';

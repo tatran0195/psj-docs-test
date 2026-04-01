@@ -15,6 +15,7 @@
   "dependencies": {
     "@ai-sdk/openai-compatible": "^2.0.37",
     "@ai-sdk/react": "^3.0.143",
+    "@fumadocs/base-ui": "^16.7.7",
     "@mixedbread/sdk": "^0.61.0",
     "@openrouter/ai-sdk-provider": "^2.3.3",
     "@orama/core": "^1.2.19",
@@ -40,8 +41,7 @@
     "fumadocs-mdx": "14.2.11",
     "fumadocs-openapi": "10.6.1",
     "fumadocs-twoslash": "3.1.14",
-    "fumadocs-typescript": "5.2.0",
-    "fumadocs-ui": "16.7.7",
+    "fumadocs-typescript": "^5.2.0",
     "hast-util-to-jsx-runtime": "^2.3.6",
     "katex": "0.16.44",
     "lucide-react": "^1.7.0",

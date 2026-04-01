@@ -15,7 +15,7 @@ export const registry: Registry = {
     ui: '@fumadocs/base-ui',
   },
   onResolve(ref) {
-    return resolveExternal(ref, 'fumadocs-ui', dir) ?? ref;
+    return resolveExternal(ref, '@fumadocs/base-ui', dir) ?? ref;
   },
   components: [
     ...commonComponents,
@@ -317,7 +317,7 @@ export const registry: Registry = {
   dependencies: {
     'fumadocs-core': null,
     '@fumadocs/base-ui': null,
-    'fumadocs-ui': 'npm:@fumadocs/base-ui',
+    '@fumadocs/base-ui': 'npm:@fumadocs/base-ui',
     react: null,
   },
 };

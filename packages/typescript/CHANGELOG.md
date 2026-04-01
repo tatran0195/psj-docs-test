@@ -14,7 +14,7 @@
 - Updated dependencies [3d17757]
 - Updated dependencies [f45d703]
 - Updated dependencies [45aa454]
-  - fumadocs-ui@16.7.0
+  - @fumadocs/base-ui@16.7.0
   - fumadocs-core@16.7.0
 
 ## 5.1.5
@@ -23,7 +23,7 @@
 
 - 5453502: use Shiki.js v4
 - Updated dependencies [5453502]
-  - fumadocs-ui@16.6.8
+  - @fumadocs/base-ui@16.6.8
   - fumadocs-core@16.6.8
 
 ## 5.1.4
@@ -34,7 +34,7 @@
 - Updated dependencies [1a614de]
 - Updated dependencies [6ab6692]
   - fumadocs-core@16.6.5
-  - fumadocs-ui@16.6.5
+  - @fumadocs/base-ui@16.6.5
 
 ## 5.1.3
 
@@ -45,7 +45,7 @@
 - Updated dependencies [00c9a0f]
 - Updated dependencies [20cd4d6]
   - fumadocs-core@16.6.1
-  - fumadocs-ui@16.6.1
+  - @fumadocs/base-ui@16.6.1
 
 ## 5.1.2
 
@@ -53,7 +53,7 @@
 
 - c22f6ee: bump tsdown
 - Updated dependencies [c22f6ee]
-  - fumadocs-ui@16.5.2
+  - @fumadocs/base-ui@16.5.2
   - fumadocs-core@16.5.2
 
 ## 5.1.0
@@ -65,7 +65,7 @@
 ### Patch Changes
 
 - Updated dependencies [9ba1250]
-  - fumadocs-ui@16.6.0
+  - @fumadocs/base-ui@16.6.0
   - fumadocs-core@16.6.0
 
 ## 5.0.1
@@ -79,7 +79,7 @@
 - Updated dependencies [446631d]
 - Updated dependencies [b16a32f]
   - fumadocs-core@16.4.2
-  - fumadocs-ui@16.4.2
+  - @fumadocs/base-ui@16.4.2
 
 ## 5.0.0
 
@@ -117,7 +117,7 @@
 ### Patch Changes
 
 - Updated dependencies [7c78045]
-  - fumadocs-ui@16.3.2
+  - @fumadocs/base-ui@16.3.2
   - fumadocs-core@16.3.2
 
 ## 4.0.14
@@ -128,7 +128,7 @@
 - Updated dependencies [da87713]
 - Updated dependencies [d17499b]
   - fumadocs-core@16.2.4
-  - fumadocs-ui@16.2.4
+  - @fumadocs/base-ui@16.2.4
 
 ## 4.0.13
 
@@ -140,7 +140,7 @@
 - Updated dependencies [c0df2c4]
 - Updated dependencies [117ad86]
   - fumadocs-core@16.0.8
-  - fumadocs-ui@16.0.8
+  - @fumadocs/base-ui@16.0.8
 
 ## 4.0.12
 
@@ -159,7 +159,7 @@
 - Updated dependencies [42f09c3]
 - Updated dependencies [55afd8a]
 - Updated dependencies [5966e23]
-  - fumadocs-ui@16.0.0
+  - @fumadocs/base-ui@16.0.0
   - fumadocs-core@16.0.0
 
 ## 4.0.11
@@ -170,7 +170,7 @@
 - Updated dependencies [a3a14e7]
 - Updated dependencies [7b0d839]
   - fumadocs-core@15.8.3
-  - fumadocs-ui@15.8.3
+  - @fumadocs/base-ui@15.8.3
 
 ## 4.0.10
 
@@ -182,7 +182,7 @@
 - Updated dependencies [90cf1fe]
 - Updated dependencies [6c3bde5]
 - Updated dependencies [747bdbc]
-  - fumadocs-ui@15.8.2
+  - @fumadocs/base-ui@15.8.2
   - fumadocs-core@15.8.2
 
 ## 4.0.9
@@ -197,7 +197,7 @@
 - Updated dependencies [51268ec]
 - Updated dependencies [51268ec]
   - fumadocs-core@15.8.0
-  - fumadocs-ui@15.8.0
+  - @fumadocs/base-ui@15.8.0
 
 ## 4.0.8
 
@@ -206,7 +206,7 @@
 - 0d55667: Enforce `peerDeps` on Fumadocs deps
 - Updated dependencies [c948f59]
   - fumadocs-core@15.7.10
-  - fumadocs-ui@15.7.10
+  - @fumadocs/base-ui@15.7.10
 
 ## 4.0.7
 

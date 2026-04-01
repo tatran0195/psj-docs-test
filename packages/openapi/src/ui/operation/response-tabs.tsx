@@ -7,7 +7,7 @@ import {
   Accordions,
   AccordionTrigger,
 } from '@/ui/components/accordion';
-import { Tab, Tabs } from 'fumadocs-ui/components/tabs';
+import { Tab, Tabs } from '@fumadocs/base-ui/components/tabs';
 import { sample } from 'openapi-sampler';
 import { useMemo, type ReactNode } from 'react';
 import { I18nLabel } from '@/ui/client/i18n';

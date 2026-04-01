@@ -1,6 +1,6 @@
-import type { I18nUIConfig } from 'fumadocs-ui/i18n';
+import type { I18nUIConfig } from '@fumadocs/base-ui/i18n';
 import { deepmerge } from '@fastify/deepmerge';
-import type { TranslationsOption } from 'fumadocs-ui/contexts/i18n';
+import type { TranslationsOption } from '@fumadocs/base-ui/contexts/i18n';
 
 export const defaultTranslations = {
   // General

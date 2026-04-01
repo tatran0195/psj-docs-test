@@ -11,9 +11,9 @@ import {
   type FC,
   type ReactNode,
 } from 'react';
-import { Heading } from 'fumadocs-ui/components/heading';
+import { Heading } from '@fumadocs/base-ui/components/heading';
 import { remarkGfm } from 'fumadocs-core/mdx-plugins/remark-gfm';
-import defaultMdxComponents from 'fumadocs-ui/mdx';
+import defaultMdxComponents from '@fumadocs/base-ui/mdx';
 import { remark } from 'remark';
 import remarkRehype from 'remark-rehype';
 import { toJsxRuntime } from 'hast-util-to-jsx-runtime';

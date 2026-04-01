@@ -3,7 +3,7 @@ import { source } from '@/lib/source';
 import { getSection } from '@/lib/source/navigation';
 import type { ReactNode } from 'react';
 import { LayoutClient } from './client';
-import { getLayoutTabs } from 'fumadocs-ui/layouts/shared';
+import { getLayoutTabs } from '@fumadocs/base-ui/layouts/shared';
 
 export function FluxLayout({ children }: { children: ReactNode }) {
   const base = baseOptions();

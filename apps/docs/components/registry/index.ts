@@ -26,8 +26,8 @@ export const registry: Registry = {
       }
     }
 
-    if (ref.type === 'dependency' && ref.dep === 'fumadocs-ui') {
-      const match = /fumadocs-ui\/components\/ui\/(.*)/.exec(ref.specifier);
+    if (ref.type === 'dependency' && ref.dep === '@fumadocs/base-ui') {
+      const match = /@fumadocs/base-ui\/components\/ui\/(.*)/.exec(ref.specifier);
       if (match) {
         return resolveFromRemote(
           radixUi.registry,
@@ -165,7 +165,7 @@ export const registry: Registry = {
   ],
   dependencies: {
     'fumadocs-core': null,
-    'fumadocs-ui': null,
+    '@fumadocs/base-ui': null,
     'lucide-react': null,
     next: null,
     react: null,

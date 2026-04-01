@@ -95,7 +95,7 @@ export function useDocsPage() {
   const context = use(PageContext);
   if (!context)
     throw new Error(
-      'Please use page components under <DocsPage /> (`fumadocs-ui/layouts/notebook/page`).',
+      'Please use page components under <DocsPage /> (`@fumadocs/base-ui/layouts/notebook/page`).',
     );
   return context;
 }

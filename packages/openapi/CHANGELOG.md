@@ -19,7 +19,7 @@
 - Updated dependencies [9eb3c84]
 - Updated dependencies [0f39a9f]
 - Updated dependencies [0a6507b]
-  - fumadocs-ui@16.7.7
+  - @fumadocs/base-ui@16.7.7
   - fumadocs-core@16.7.7
 
 ## 10.5.0
@@ -31,7 +31,7 @@
 ### Patch Changes
 
 - Updated dependencies [6849807]
-  - fumadocs-ui@16.7.6
+  - @fumadocs/base-ui@16.7.6
   - fumadocs-core@16.7.6
 
 ## 10.4.1
@@ -41,7 +41,7 @@
 - 440b954: support unsetting auth fields in playground
 - Updated dependencies [11b8691]
 - Updated dependencies [75b0b94]
-  - fumadocs-ui@16.7.1
+  - @fumadocs/base-ui@16.7.1
   - fumadocs-core@16.7.1
 
 ## 10.4.0
@@ -59,7 +59,7 @@
 - Updated dependencies [3d17757]
 - Updated dependencies [f45d703]
 - Updated dependencies [45aa454]
-  - fumadocs-ui@16.7.0
+  - @fumadocs/base-ui@16.7.0
   - fumadocs-core@16.7.0
 
 ## 10.3.18
@@ -68,7 +68,7 @@
 
 - c1c954d: fix schema intersection
 - Updated dependencies [86d3abb]
-  - fumadocs-ui@16.6.15
+  - @fumadocs/base-ui@16.6.15
   - fumadocs-core@16.6.15
 
 ## 10.3.17
@@ -80,7 +80,7 @@
 - Updated dependencies [ae3e742]
 - Updated dependencies [269dfb3]
   - fumadocs-core@16.6.11
-  - fumadocs-ui@16.6.11
+  - @fumadocs/base-ui@16.6.11
 
 ## 10.3.16
 
@@ -89,7 +89,7 @@
 - 1f4ccb4: expose heading & codeblock renderer
 - Updated dependencies [9b5c2dd]
   - fumadocs-core@16.6.10
-  - fumadocs-ui@16.6.10
+  - @fumadocs/base-ui@16.6.10
 
 ## 10.3.15
 
@@ -105,7 +105,7 @@
 - 53856d2: Improve dereference & TypeScript generation
 - 5453502: use Shiki.js v4
 - Updated dependencies [5453502]
-  - fumadocs-ui@16.6.8
+  - @fumadocs/base-ui@16.6.8
   - fumadocs-core@16.6.8
   - @fumari/stf@1.0.3
 
@@ -116,7 +116,7 @@
 - 825f401: enable Typescript definition generation for request body
 - 146bb4b: Support code usage generator registry
 - Updated dependencies [8faa2e4]
-  - fumadocs-ui@16.6.7
+  - @fumadocs/base-ui@16.6.7
   - fumadocs-core@16.6.7
 
 ## 10.3.12
@@ -130,7 +130,7 @@
 - 9013195: fix typescript schema generation
 - Updated dependencies [38bd784]
 - Updated dependencies [bd8c33a]
-  - fumadocs-ui@16.6.6
+  - @fumadocs/base-ui@16.6.6
   - @fumari/stf@1.0.2
   - fumadocs-core@16.6.6
 
@@ -166,7 +166,7 @@
 - Updated dependencies [1a614de]
 - Updated dependencies [6ab6692]
   - fumadocs-core@16.6.5
-  - fumadocs-ui@16.6.5
+  - @fumadocs/base-ui@16.6.5
 
 ## 10.3.7
 
@@ -174,7 +174,7 @@
 
 - 3f8c9b0: Support OpenAPI 3.2 security scheme deprecation
 - Updated dependencies [8f8e7f0]
-  - fumadocs-ui@16.6.4
+  - @fumadocs/base-ui@16.6.4
   - fumadocs-core@16.6.4
 
 ## 10.3.6
@@ -183,7 +183,7 @@
 
 - 6ded66b: Improve server selector UI
 - Updated dependencies [1c26656]
-  - fumadocs-ui@16.6.3
+  - @fumadocs/base-ui@16.6.3
   - fumadocs-core@16.6.3
 
 ## 10.3.5
@@ -193,7 +193,7 @@
 - 013bba7: support servers override
 - Updated dependencies [9241992]
 - Updated dependencies [64a0057]
-  - fumadocs-ui@16.6.0
+  - @fumadocs/base-ui@16.6.0
   - fumadocs-core@16.6.0
 
 ## 10.3.4
@@ -206,7 +206,7 @@
 - Updated dependencies [3e8efb0]
   - @fumari/stf@0.0.3
   - fumadocs-core@16.5.4
-  - fumadocs-ui@16.5.4
+  - @fumadocs/base-ui@16.5.4
 
 ## 10.3.3
 
@@ -214,7 +214,7 @@
 
 - c22f6ee: bump tsdown
 - Updated dependencies [c22f6ee]
-  - fumadocs-ui@16.5.2
+  - @fumadocs/base-ui@16.5.2
   - fumadocs-core@16.5.2
   - @fumari/stf@0.0.2
 
@@ -225,7 +225,7 @@
 - 53ad20b: Pre-scan class names to optimize Tailwind CSS compilation performance
 - Updated dependencies [c08364a]
 - Updated dependencies [53ad20b]
-  - fumadocs-ui@16.5.1
+  - @fumadocs/base-ui@16.5.1
   - fumadocs-core@16.5.1
 
 ## 10.3.1
@@ -237,7 +237,7 @@
 ### Patch Changes
 
 - Updated dependencies [9ba1250]
-  - fumadocs-ui@16.5.0
+  - @fumadocs/base-ui@16.5.0
   - fumadocs-core@16.5.0
 
 ## 10.2.7
@@ -249,7 +249,7 @@
 - Updated dependencies [430a5f1]
 - Updated dependencies [099fde7]
 - Updated dependencies [6fd7e63]
-  - fumadocs-ui@16.4.10
+  - @fumadocs/base-ui@16.4.10
   - fumadocs-core@16.4.10
 
 ## 10.2.6
@@ -273,7 +273,7 @@
 
 - e55510b: fix unknown parameter encoding
 - Updated dependencies [9f06196]
-  - fumadocs-ui@16.4.5
+  - @fumadocs/base-ui@16.4.5
   - fumadocs-core@16.4.5
 
 ## 10.2.3
@@ -287,7 +287,7 @@
 - Updated dependencies [446631d]
 - Updated dependencies [b16a32f]
   - fumadocs-core@16.4.2
-  - fumadocs-ui@16.4.2
+  - @fumadocs/base-ui@16.4.2
 
 ## 10.2.2
 
@@ -296,7 +296,7 @@
 - b752aff: Add `getSchema()` to virtual pages
 - Updated dependencies [da98fe2]
 - Updated dependencies [a3b7919]
-  - fumadocs-ui@16.4.0
+  - @fumadocs/base-ui@16.4.0
   - fumadocs-core@16.4.0
 
 ## 10.2.1
@@ -315,7 +315,7 @@
 ### Patch Changes
 
 - Updated dependencies [a69b060]
-  - fumadocs-ui@16.3.0
+  - @fumadocs/base-ui@16.3.0
   - fumadocs-core@16.3.0
   - @fumadocs/ui@16.3.0
 
@@ -333,7 +333,7 @@
 - fb3440c: fix possible hydration errors
 - Updated dependencies [8469c6d]
 - Updated dependencies [7292424]
-  - fumadocs-ui@16.2.5
+  - @fumadocs/base-ui@16.2.5
   - fumadocs-core@16.2.5
 
 ## 10.1.2
@@ -371,7 +371,7 @@
 - Updated dependencies [5d65002]
 - Updated dependencies [9a39883]
 - Updated dependencies [12d3f78]
-  - fumadocs-ui@16.2.0
+  - @fumadocs/base-ui@16.2.0
   - fumadocs-core@16.2.0
 
 ## 10.0.11
@@ -383,7 +383,7 @@
 - Updated dependencies [15bd183]
 - Updated dependencies [42ad84c]
   - fumadocs-core@16.1.0
-  - fumadocs-ui@16.1.0
+  - @fumadocs/base-ui@16.1.0
 
 ## 10.0.10
 
@@ -394,7 +394,7 @@
 - Updated dependencies [40d9b75]
 - Updated dependencies [ade44d0]
   - fumadocs-core@16.0.15
-  - fumadocs-ui@16.0.15
+  - @fumadocs/base-ui@16.0.15
 
 ## 10.0.9
 
@@ -402,14 +402,14 @@
 
 - Updated dependencies [c3b8474]
   - fumadocs-core@16.0.14
-  - fumadocs-ui@16.0.14
+  - @fumadocs/base-ui@16.0.14
 
 ## 10.0.8
 
 ### Patch Changes
 
 - Updated dependencies [88dae4d]
-  - fumadocs-ui@16.0.13
+  - @fumadocs/base-ui@16.0.13
   - fumadocs-core@16.0.13
 
 ## 10.0.7
@@ -418,7 +418,7 @@
 
 - Updated dependencies [c5c00e9]
   - fumadocs-core@16.0.12
-  - fumadocs-ui@16.0.12
+  - @fumadocs/base-ui@16.0.12
 
 ## 10.0.6
 
@@ -433,7 +433,7 @@
 - Updated dependencies [ff68f69]
 - Updated dependencies [00058c8]
   - fumadocs-core@16.0.11
-  - fumadocs-ui@16.0.11
+  - @fumadocs/base-ui@16.0.11
 
 ## 10.0.4
 
@@ -442,7 +442,7 @@
 - 0ada792: Enhance Schema UI to display inherited properties for `oneOf`.
 - Updated dependencies [112e8d9]
 - Updated dependencies [733b01e]
-  - fumadocs-ui@16.0.10
+  - @fumadocs/base-ui@16.0.10
   - fumadocs-core@16.0.10
 
 ## 10.0.3
@@ -451,7 +451,7 @@
 
 - 9a7fd08: Improve integer fields handling
 - Updated dependencies [2eef888]
-  - fumadocs-ui@16.0.9
+  - @fumadocs/base-ui@16.0.9
   - fumadocs-core@16.0.9
 
 ## 10.0.2
@@ -717,7 +717,7 @@
 - Updated dependencies [c0df2c4]
 - Updated dependencies [117ad86]
   - fumadocs-core@16.0.8
-  - fumadocs-ui@16.0.8
+  - @fumadocs/base-ui@16.0.8
 
 ## 9.7.3
 
@@ -726,7 +726,7 @@
 - Updated dependencies [f97cd1e]
 - Updated dependencies [f7e15e2]
   - fumadocs-core@16.0.7
-  - fumadocs-ui@16.0.7
+  - @fumadocs/base-ui@16.0.7
 
 ## 9.7.2
 
@@ -736,7 +736,7 @@
 - 9845ffc: Support `+variant` media types
 - Updated dependencies [b95b0cf]
   - fumadocs-core@16.0.6
-  - fumadocs-ui@16.0.6
+  - @fumadocs/base-ui@16.0.6
 
 ## 9.7.1
 
@@ -744,7 +744,7 @@
 
 - Updated dependencies [8221785]
   - fumadocs-core@16.0.5
-  - fumadocs-ui@16.0.5
+  - @fumadocs/base-ui@16.0.5
 
 ## 9.7.0
 
@@ -759,14 +759,14 @@
 - d9d73f3: Support `groupBy` function value
 - Updated dependencies [99971c7]
   - fumadocs-core@16.0.4
-  - fumadocs-ui@16.0.4
+  - @fumadocs/base-ui@16.0.4
 
 ## 9.6.4
 
 ### Patch Changes
 
 - fumadocs-core@16.0.3
-- fumadocs-ui@16.0.3
+- @fumadocs/base-ui@16.0.3
 
 ## 9.6.3
 
@@ -780,7 +780,7 @@
 
 - Updated dependencies [d511232]
   - fumadocs-core@16.0.2
-  - fumadocs-ui@16.0.2
+  - @fumadocs/base-ui@16.0.2
 
 ## 9.6.1
 
@@ -788,7 +788,7 @@
 
 - Updated dependencies [45f0c1f]
   - fumadocs-core@16.0.1
-  - fumadocs-ui@16.0.1
+  - @fumadocs/base-ui@16.0.1
 
 ## 9.6.0
 
@@ -817,7 +817,7 @@
 - Updated dependencies [42f09c3]
 - Updated dependencies [55afd8a]
 - Updated dependencies [5966e23]
-  - fumadocs-ui@16.0.0
+  - @fumadocs/base-ui@16.0.0
   - fumadocs-core@16.0.0
 
 ## 9.5.0
@@ -831,7 +831,7 @@
 - Updated dependencies [ce2be59]
 - Updated dependencies [31b9494]
   - fumadocs-core@15.8.4
-  - fumadocs-ui@15.8.4
+  - @fumadocs/base-ui@15.8.4
 
 ## 9.4.1
 
@@ -841,7 +841,7 @@
 - Updated dependencies [a3a14e7]
 - Updated dependencies [7b0d839]
   - fumadocs-core@15.8.3
-  - fumadocs-ui@15.8.3
+  - @fumadocs/base-ui@15.8.3
 
 ## 9.4.0
 
@@ -856,7 +856,7 @@
 - Updated dependencies [90cf1fe]
 - Updated dependencies [6c3bde5]
 - Updated dependencies [747bdbc]
-  - fumadocs-ui@15.8.2
+  - @fumadocs/base-ui@15.8.2
   - fumadocs-core@15.8.2
 
 ## 9.3.13
@@ -867,7 +867,7 @@
 - Updated dependencies [71bce86]
 - Updated dependencies [f04547f]
   - fumadocs-core@15.8.1
-  - fumadocs-ui@15.8.1
+  - @fumadocs/base-ui@15.8.1
 
 ## 9.3.12
 
@@ -882,7 +882,7 @@
 - Updated dependencies [51268ec]
 - Updated dependencies [51268ec]
   - fumadocs-core@15.8.0
-  - fumadocs-ui@15.8.0
+  - @fumadocs/base-ui@15.8.0
 
 ## 9.3.11
 
@@ -896,7 +896,7 @@
 
 - Updated dependencies [982aed6]
   - fumadocs-core@15.7.13
-  - fumadocs-ui@15.7.13
+  - @fumadocs/base-ui@15.7.13
 
 ## 9.3.9
 
@@ -905,7 +905,7 @@
 - Updated dependencies [846b28a]
 - Updated dependencies [2b30315]
   - fumadocs-core@15.7.12
-  - fumadocs-ui@15.7.12
+  - @fumadocs/base-ui@15.7.12
 
 ## 9.3.8
 
@@ -914,7 +914,7 @@
 - e37b291: Migrate to `@scalar/openapi-parser@0.20.3`
 - Updated dependencies [9304db9]
 - Updated dependencies [dd7338b]
-  - fumadocs-ui@15.7.11
+  - @fumadocs/base-ui@15.7.11
   - fumadocs-core@15.7.11
 
 ## 9.3.7
@@ -925,7 +925,7 @@
 - 44a560f: Remove undefined values in generated frontmatter
 - Updated dependencies [c948f59]
   - fumadocs-core@15.7.10
-  - fumadocs-ui@15.7.10
+  - @fumadocs/base-ui@15.7.10
 
 ## 9.3.6
 
@@ -935,7 +935,7 @@
 - Updated dependencies [d135efd]
 - Updated dependencies [4082acc]
 - Updated dependencies [4082acc]
-  - fumadocs-ui@15.7.9
+  - @fumadocs/base-ui@15.7.9
   - fumadocs-core@15.7.9
 
 ## 9.3.5
@@ -948,7 +948,7 @@
 - Updated dependencies [efba995]
 - Updated dependencies [bec3b36]
   - fumadocs-core@15.7.8
-  - fumadocs-ui@15.7.8
+  - @fumadocs/base-ui@15.7.8
 
 ## 9.3.4
 
@@ -957,14 +957,14 @@
 - Updated dependencies [0b53056]
 - Updated dependencies [3490285]
   - fumadocs-core@15.7.7
-  - fumadocs-ui@15.7.7
+  - @fumadocs/base-ui@15.7.7
 
 ## 9.3.3
 
 ### Patch Changes
 
 - Updated dependencies [dc6d8a0]
-  - fumadocs-ui@15.7.6
+  - @fumadocs/base-ui@15.7.6
   - fumadocs-core@15.7.6
 
 ## 9.3.2
@@ -973,7 +973,7 @@
 
 - Updated dependencies [cedc494]
   - fumadocs-core@15.7.5
-  - fumadocs-ui@15.7.5
+  - @fumadocs/base-ui@15.7.5
 
 ## 9.3.1
 
@@ -983,7 +983,7 @@
 - e1b61ea: Unify input id and output documents
 - Updated dependencies [302cdc2]
 - Updated dependencies [02d3453]
-  - fumadocs-ui@15.7.4
+  - @fumadocs/base-ui@15.7.4
   - fumadocs-core@15.7.4
 
 ## 9.3.0
@@ -998,7 +998,7 @@
 - Updated dependencies [f6de900]
 - Updated dependencies [6d97379]
 - Updated dependencies [e776ee5]
-  - fumadocs-ui@15.7.3
+  - @fumadocs/base-ui@15.7.3
   - fumadocs-core@15.7.3
 
 ## 9.2.3
@@ -1009,7 +1009,7 @@
 - Updated dependencies [039b24b]
 - Updated dependencies [08eee2b]
   - fumadocs-core@15.7.2
-  - fumadocs-ui@15.7.2
+  - @fumadocs/base-ui@15.7.2
 
 ## 9.2.2
 
@@ -1019,7 +1019,7 @@
 - Updated dependencies [e1c84a2]
 - Updated dependencies [b4e6147]
   - fumadocs-core@15.7.1
-  - fumadocs-ui@15.7.1
+  - @fumadocs/base-ui@15.7.1
 
 ## 9.2.1
 
@@ -1036,7 +1036,7 @@
 - Updated dependencies [b109d06]
 - Updated dependencies [b99cf51]
   - fumadocs-core@15.7.0
-  - fumadocs-ui@15.7.0
+  - @fumadocs/base-ui@15.7.0
 
 ## 9.2.0
 
@@ -1072,7 +1072,7 @@
 ### Patch Changes
 
 - Updated dependencies [fe31a72]
-  - fumadocs-ui@15.6.12
+  - @fumadocs/base-ui@15.6.12
   - fumadocs-core@15.6.12
 
 ## 9.1.13
@@ -1081,7 +1081,7 @@
 
 - Updated dependencies [6de6ff3]
 - Updated dependencies [f0b1fee]
-  - fumadocs-ui@15.6.11
+  - @fumadocs/base-ui@15.6.11
   - fumadocs-core@15.6.11
 
 ## 9.1.12
@@ -1098,7 +1098,7 @@
 - Updated dependencies [569bc26]
 - Updated dependencies [817c237]
   - fumadocs-core@15.6.10
-  - fumadocs-ui@15.6.10
+  - @fumadocs/base-ui@15.6.10
 
 ## 9.1.10
 
@@ -1120,7 +1120,7 @@
 - Updated dependencies [0ab2cdd]
 - Updated dependencies [f2b22ca]
   - fumadocs-core@15.6.9
-  - fumadocs-ui@15.6.9
+  - @fumadocs/base-ui@15.6.9
 
 ## 9.1.7
 
@@ -1129,7 +1129,7 @@
 - 224f259: Make Next.js dependency optional
 - 6e29dd1: Fix Waku compatibility
   - fumadocs-core@15.6.8
-  - fumadocs-ui@15.6.8
+  - @fumadocs/base-ui@15.6.8
 
 ## 9.1.6
 
@@ -1138,7 +1138,7 @@
 - Updated dependencies [e9fef34]
 - Updated dependencies [d4a9037]
 - Updated dependencies [6fa1442]
-  - fumadocs-ui@15.6.7
+  - @fumadocs/base-ui@15.6.7
   - fumadocs-core@15.6.7
 
 ## 9.1.5
@@ -1150,7 +1150,7 @@
 - Updated dependencies [5913cc4]
 - Updated dependencies [1b0e9d5]
 - Updated dependencies [79248f6]
-  - fumadocs-ui@15.6.6
+  - @fumadocs/base-ui@15.6.6
   - fumadocs-core@15.6.6
 
 ## 9.1.4
@@ -1161,14 +1161,14 @@
 - ac33c3c: Add method option and Content-Type header to generated JavaScript code examples
 - Updated dependencies [658fa96]
   - fumadocs-core@15.6.5
-  - fumadocs-ui@15.6.5
+  - @fumadocs/base-ui@15.6.5
 
 ## 9.1.3
 
 ### Patch Changes
 
 - Updated dependencies [dca17d7]
-  - fumadocs-ui@15.6.4
+  - @fumadocs/base-ui@15.6.4
   - fumadocs-core@15.6.4
 
 ## 9.1.2
@@ -1183,7 +1183,7 @@
 
 - dd94271: Fix handling of primitive types in `anyOf`/`allOf`
 - Updated dependencies [a2d7940]
-  - fumadocs-ui@15.6.3
+  - @fumadocs/base-ui@15.6.3
   - fumadocs-core@15.6.3
 
 ## 9.1.0
@@ -1199,7 +1199,7 @@
 - Updated dependencies [1e50889]
 - Updated dependencies [353c139]
 - Updated dependencies [5844c6f]
-  - fumadocs-ui@15.6.2
+  - @fumadocs/base-ui@15.6.2
   - fumadocs-core@15.6.2
 
 ## 9.0.18
@@ -1223,7 +1223,7 @@
 
 - Updated dependencies [1a902ff]
   - fumadocs-core@15.6.1
-  - fumadocs-ui@15.6.1
+  - @fumadocs/base-ui@15.6.1
 
 ## 9.0.15
 
@@ -1235,7 +1235,7 @@
 - Updated dependencies [bf15617]
 - Updated dependencies [f8d1709]
   - fumadocs-core@15.6.0
-  - fumadocs-ui@15.6.0
+  - @fumadocs/base-ui@15.6.0
 
 ## 9.0.14
 
@@ -1244,7 +1244,7 @@
 - Updated dependencies [e9b1c9c]
 - Updated dependencies [d5c9b11]
 - Updated dependencies [0d3f76b]
-  - fumadocs-ui@15.5.5
+  - @fumadocs/base-ui@15.5.5
   - fumadocs-core@15.5.5
 
 ## 9.0.13
@@ -1254,7 +1254,7 @@
 - Updated dependencies [4a1d3cf]
 - Updated dependencies [35c3c0b]
 - Updated dependencies [58b7596]
-  - fumadocs-ui@15.5.4
+  - @fumadocs/base-ui@15.5.4
   - fumadocs-core@15.5.4
 
 ## 9.0.12
@@ -1269,7 +1269,7 @@
 
 - Updated dependencies [7d1ac21]
   - fumadocs-core@15.5.3
-  - fumadocs-ui@15.5.3
+  - @fumadocs/base-ui@15.5.3
 
 ## 9.0.10
 
@@ -1283,7 +1283,7 @@
 - Updated dependencies [7a45921]
 - Updated dependencies [1b7bc4b]
 - Updated dependencies [82fc4c8]
-  - fumadocs-ui@15.5.2
+  - @fumadocs/base-ui@15.5.2
   - fumadocs-core@15.5.2
 
 ## 9.0.9
@@ -1314,7 +1314,7 @@
 - Updated dependencies [68526ea]
 - Updated dependencies [a66886b]
   - fumadocs-core@15.5.1
-  - fumadocs-ui@15.5.1
+  - @fumadocs/base-ui@15.5.1
 
 ## 9.0.5
 
@@ -1324,7 +1324,7 @@
 - Updated dependencies [50f8f7f]
 - Updated dependencies [589d101]
 - Updated dependencies [697d5b4]
-  - fumadocs-ui@15.5.0
+  - @fumadocs/base-ui@15.5.0
   - fumadocs-core@15.5.0
 
 ## 9.0.4
@@ -1341,7 +1341,7 @@
 - d2a2d47: Skip non-required values when generating code examples
 - Updated dependencies [0ab6c7f]
   - fumadocs-core@15.4.2
-  - fumadocs-ui@15.4.2
+  - @fumadocs/base-ui@15.4.2
 
 ## 9.0.2
 
@@ -1349,7 +1349,7 @@
 
 - 0a90cb9: Improve auth handling
 - Updated dependencies [e72b7b4]
-  - fumadocs-ui@15.4.1
+  - @fumadocs/base-ui@15.4.1
   - fumadocs-core@15.4.1
 
 ## 9.0.1
@@ -1440,7 +1440,7 @@
 - Updated dependencies [1b999eb]
 - Updated dependencies [961b67e]
 - Updated dependencies [7d78bc5]
-  - fumadocs-ui@15.4.0
+  - @fumadocs/base-ui@15.4.0
   - fumadocs-core@15.4.0
 
 ## 8.1.12
@@ -1450,7 +1450,7 @@
 - a6c909b: Removed unused devDependencies and migrated from `fast-glob` to `tinyglobby`
 - Updated dependencies [e0c2a92]
 - Updated dependencies [71fc1a5]
-  - fumadocs-ui@15.3.4
+  - @fumadocs/base-ui@15.3.4
   - fumadocs-core@15.3.4
 
 ## 8.1.11
@@ -1461,7 +1461,7 @@
 - Updated dependencies [39bf088]
 - Updated dependencies [4ae7b4a]
 - Updated dependencies [e955a98]
-  - fumadocs-ui@15.3.3
+  - @fumadocs/base-ui@15.3.3
   - fumadocs-core@15.3.3
 
 ## 8.1.10
@@ -1474,7 +1474,7 @@
 - Updated dependencies [8e862e5]
 - Updated dependencies [ac0ab12]
 - Updated dependencies [c25d678]
-  - fumadocs-ui@15.3.2
+  - @fumadocs/base-ui@15.3.2
   - fumadocs-core@15.3.2
 
 ## 8.1.9
@@ -1483,7 +1483,7 @@
 
 - Updated dependencies [3372792]
   - fumadocs-core@15.3.1
-  - fumadocs-ui@15.3.1
+  - @fumadocs/base-ui@15.3.1
 
 ## 8.1.8
 
@@ -1492,7 +1492,7 @@
 - Updated dependencies [52b5ad8]
 - Updated dependencies [c05dc03]
 - Updated dependencies [abce713]
-  - fumadocs-ui@15.3.0
+  - @fumadocs/base-ui@15.3.0
   - fumadocs-core@15.3.0
 
 ## 8.1.7
@@ -1503,7 +1503,7 @@
 - Updated dependencies [50db874]
 - Updated dependencies [79e75c3]
   - fumadocs-core@15.2.15
-  - fumadocs-ui@15.2.15
+  - @fumadocs/base-ui@15.2.15
 
 ## 8.1.6
 
@@ -1512,7 +1512,7 @@
 - 3e69302: Support media adapter API
 - Updated dependencies [6ea1718]
   - fumadocs-core@15.2.14
-  - fumadocs-ui@15.2.14
+  - @fumadocs/base-ui@15.2.14
 
 ## 8.1.5
 
@@ -1521,7 +1521,7 @@
 - a7ef446: Fix empty directory detection
 - Updated dependencies [b433d93]
 - Updated dependencies [1e07ed8]
-  - fumadocs-ui@15.2.13
+  - @fumadocs/base-ui@15.2.13
   - fumadocs-core@15.2.13
 
 ## 8.1.4
@@ -1541,7 +1541,7 @@
 - Updated dependencies [b68bb51]
 - Updated dependencies [127e681]
   - fumadocs-core@15.2.12
-  - fumadocs-ui@15.2.12
+  - @fumadocs/base-ui@15.2.12
 
 ## 8.1.2
 
@@ -1552,7 +1552,7 @@
 - Updated dependencies [d4d1ba7]
 - Updated dependencies [4e62b41]
 - Updated dependencies [07cd690]
-  - fumadocs-ui@15.2.11
+  - @fumadocs/base-ui@15.2.11
   - fumadocs-core@15.2.11
 
 ## 8.1.1
@@ -1577,15 +1577,15 @@
 
   ```css
   @import "tailwindcss";
-  @import "fumadocs-ui/css/neutral.css";
-  @import "fumadocs-ui/css/preset.css";
+  @import "@fumadocs/base-ui/css/neutral.css";
+  @import "@fumadocs/base-ui/css/preset.css";
   /* do this */
   @import "fumadocs-openapi/css/preset.css";
   ```
 
 - Updated dependencies [3a5595a]
 - Updated dependencies [8c9fc1f]
-  - fumadocs-ui@15.2.10
+  - @fumadocs/base-ui@15.2.10
   - fumadocs-core@15.2.10
 
 ## 8.0.3
@@ -1595,7 +1595,7 @@
 - Updated dependencies [e72af4b]
 - Updated dependencies [ea0f468]
 - Updated dependencies [7f3c30e]
-  - fumadocs-ui@15.2.9
+  - @fumadocs/base-ui@15.2.9
   - fumadocs-core@15.2.9
 
 ## 8.0.2
@@ -1604,7 +1604,7 @@
 
 - Updated dependencies [4fad539]
 - Updated dependencies [a673ef4]
-  - fumadocs-ui@15.2.8
+  - @fumadocs/base-ui@15.2.8
   - fumadocs-core@15.2.8
 
 ## 8.0.1
@@ -1624,7 +1624,7 @@
   in your `mdx-components.tsx` (or where you pass MDX components):
 
   ```tsx
-  import defaultComponents from "fumadocs-ui/mdx";
+  import defaultComponents from "@fumadocs/base-ui/mdx";
   import { APIPage } from "fumadocs-openapi/ui";
   import { openapi } from "@/lib/source";
   import type { MDXComponents } from "mdx/types";
@@ -1650,7 +1650,7 @@
 - Updated dependencies [4d50bcf]
 - Updated dependencies [ec85a6c]
 - Updated dependencies [e1a61bf]
-  - fumadocs-ui@15.2.7
+  - @fumadocs/base-ui@15.2.7
   - fumadocs-core@15.2.7
 
 ## 7.0.14
@@ -1662,7 +1662,7 @@
 - Updated dependencies [b07e98c]
 - Updated dependencies [3a4bd88]
   - fumadocs-core@15.2.6
-  - fumadocs-ui@15.2.6
+  - @fumadocs/base-ui@15.2.6
 
 ## 7.0.13
 
@@ -1671,7 +1671,7 @@
 - 4d89c13: Improve `generateFiles` warnings
 - Updated dependencies [c66ed79]
   - fumadocs-core@15.2.5
-  - fumadocs-ui@15.2.5
+  - @fumadocs/base-ui@15.2.5
 
 ## 7.0.12
 
@@ -1679,7 +1679,7 @@
 
 - Updated dependencies [1057957]
   - fumadocs-core@15.2.4
-  - fumadocs-ui@15.2.4
+  - @fumadocs/base-ui@15.2.4
 
 ## 7.0.11
 
@@ -1687,7 +1687,7 @@
 
 - Updated dependencies [5e4e9ec]
 - Updated dependencies [293178f]
-  - fumadocs-ui@15.2.3
+  - @fumadocs/base-ui@15.2.3
   - fumadocs-core@15.2.3
 
 ## 7.0.10
@@ -1696,7 +1696,7 @@
 
 - Updated dependencies [0829544]
 - Updated dependencies [0829544]
-  - fumadocs-ui@15.2.2
+  - @fumadocs/base-ui@15.2.2
   - fumadocs-core@15.2.2
 
 ## 7.0.9
@@ -1704,14 +1704,14 @@
 ### Patch Changes
 
 - 70d7ab0: Change playground `localStorage` key for authorization info
-  - fumadocs-ui@15.2.1
+  - @fumadocs/base-ui@15.2.1
 
 ## 7.0.8
 
 ### Patch Changes
 
 - Updated dependencies [22aeafb]
-  - fumadocs-ui@15.2.1
+  - @fumadocs/base-ui@15.2.1
   - fumadocs-core@15.2.1
 
 ## 7.0.7
@@ -1722,7 +1722,7 @@
 - Updated dependencies [c5af09f]
 - Updated dependencies [2fd325c]
 - Updated dependencies [a7cf4fa]
-  - fumadocs-ui@15.2.0
+  - @fumadocs/base-ui@15.2.0
   - fumadocs-core@15.2.0
 
 ## 7.0.6
@@ -1731,7 +1731,7 @@
 
 - Updated dependencies [b734f92]
   - fumadocs-core@15.1.3
-  - fumadocs-ui@15.1.3
+  - @fumadocs/base-ui@15.1.3
 
 ## 7.0.5
 
@@ -1739,7 +1739,7 @@
 
 - Updated dependencies [44d5acf]
 - Updated dependencies [3f580c4]
-  - fumadocs-ui@15.1.2
+  - @fumadocs/base-ui@15.1.2
   - fumadocs-core@15.1.2
 
 ## 7.0.4
@@ -1751,7 +1751,7 @@
 - Updated dependencies [7c8a690]
 - Updated dependencies [b812457]
   - fumadocs-core@15.1.1
-  - fumadocs-ui@15.1.1
+  - @fumadocs/base-ui@15.1.1
 
 ## 7.0.3
 
@@ -1761,7 +1761,7 @@
 - Updated dependencies [f491f6f]
 - Updated dependencies [f491f6f]
   - fumadocs-core@15.1.0
-  - fumadocs-ui@15.1.0
+  - @fumadocs/base-ui@15.1.0
 
 ## 7.0.2
 
@@ -1769,7 +1769,7 @@
 
 - 30b7bd4: Fix codeblock highlight options being ignored
 - Updated dependencies [e7e2a2a]
-  - fumadocs-ui@15.0.18
+  - @fumadocs/base-ui@15.0.18
   - fumadocs-core@15.0.18
 
 ## 7.0.1
@@ -1778,7 +1778,7 @@
 
 - Updated dependencies [b790699]
 - Updated dependencies [72f79cf]
-  - fumadocs-ui@15.0.17
+  - @fumadocs/base-ui@15.0.17
   - fumadocs-core@15.0.17
 
 ## 7.0.0
@@ -1794,7 +1794,7 @@
 ### Patch Changes
 
 - fumadocs-core@15.0.16
-- fumadocs-ui@15.0.16
+- @fumadocs/base-ui@15.0.16
 
 ## 7.0.0-beta.0
 
@@ -1814,7 +1814,7 @@
 - Updated dependencies [0e5e14d]
 - Updated dependencies [2035cb1]
   - fumadocs-core@15.0.15
-  - fumadocs-ui@15.0.15
+  - @fumadocs/base-ui@15.0.15
 
 ## 6.2.1
 
@@ -1825,7 +1825,7 @@
 - Updated dependencies [2cc0be5]
 - Updated dependencies [6bc033a]
   - fumadocs-core@15.0.14
-  - fumadocs-ui@15.0.14
+  - @fumadocs/base-ui@15.0.14
 
 ## 6.2.0
 
@@ -1838,7 +1838,7 @@
 - Updated dependencies [7608f4e]
 - Updated dependencies [89ff3ae]
 - Updated dependencies [16c8944]
-  - fumadocs-ui@15.0.13
+  - @fumadocs/base-ui@15.0.13
   - fumadocs-core@15.0.13
 
 ## 6.1.1
@@ -1850,7 +1850,7 @@
 - Updated dependencies [ecacb53]
 - Updated dependencies [93952db]
   - fumadocs-core@15.0.12
-  - fumadocs-ui@15.0.12
+  - @fumadocs/base-ui@15.0.12
 
 ## 6.1.0
 
@@ -1863,7 +1863,7 @@
 - 5730116: Improve experience to customise API Playground
 - Updated dependencies [886da49]
 - Updated dependencies [04e6c6e]
-  - fumadocs-ui@15.0.11
+  - @fumadocs/base-ui@15.0.11
   - fumadocs-core@15.0.11
 
 ## 6.0.11
@@ -1873,7 +1873,7 @@
 - 0a13c45: Support response examples
 - Updated dependencies [e8a3ab7]
 - Updated dependencies [d95c21f]
-  - fumadocs-ui@15.0.10
+  - @fumadocs/base-ui@15.0.10
   - fumadocs-core@15.0.10
 
 ## 6.0.10
@@ -1881,7 +1881,7 @@
 ### Patch Changes
 
 - Updated dependencies [fa5b908]
-  - fumadocs-ui@15.0.9
+  - @fumadocs/base-ui@15.0.9
   - fumadocs-core@15.0.9
 
 ## 6.0.9
@@ -1889,7 +1889,7 @@
 ### Patch Changes
 
 - Updated dependencies [8f5993b]
-  - fumadocs-ui@15.0.8
+  - @fumadocs/base-ui@15.0.8
   - fumadocs-core@15.0.8
 
 ## 6.0.8
@@ -1900,7 +1900,7 @@
 - Updated dependencies [5deaf40]
 - Updated dependencies [f782c2c]
   - fumadocs-core@15.0.7
-  - fumadocs-ui@15.0.7
+  - @fumadocs/base-ui@15.0.7
 
 ## 6.0.7
 
@@ -1910,14 +1910,14 @@
 - Updated dependencies [08236e1]
 - Updated dependencies [a06af26]
   - fumadocs-core@15.0.6
-  - fumadocs-ui@15.0.6
+  - @fumadocs/base-ui@15.0.6
 
 ## 6.0.6
 
 ### Patch Changes
 
 - Updated dependencies [14b2f95]
-  - fumadocs-ui@15.0.5
+  - @fumadocs/base-ui@15.0.5
   - fumadocs-core@15.0.5
 
 ## 6.0.5
@@ -1932,7 +1932,7 @@
 - 31e7e3e: Improve sample select UI
 - Updated dependencies [c892bd9]
 - Updated dependencies [c892bd9]
-  - fumadocs-ui@15.0.4
+  - @fumadocs/base-ui@15.0.4
   - fumadocs-core@15.0.4
 
 ## 6.0.4
@@ -1942,7 +1942,7 @@
 - f3ccad2: fix: openapi - preserve <> placeholder marker for params with no example value
 - ff9bf0f: Fix: Hide the server select panel, not just the select, if no or only one server is present
 - Updated dependencies [47171db]
-  - fumadocs-ui@15.0.3
+  - @fumadocs/base-ui@15.0.3
   - fumadocs-core@15.0.3
 
 ## 6.0.3
@@ -1952,7 +1952,7 @@
 - a8e9e1f: Bump deps
 - ab44e05: Add file extensions to imports
 - Updated dependencies [a8e9e1f]
-  - fumadocs-ui@15.0.2
+  - @fumadocs/base-ui@15.0.2
   - fumadocs-core@15.0.2
 
 ## 6.0.2
@@ -1961,7 +1961,7 @@
 
 - a127dc4: Move to `tsc` for building package
 - Updated dependencies [421166a]
-  - fumadocs-ui@15.0.1
+  - @fumadocs/base-ui@15.0.1
   - fumadocs-core@15.0.1
 
 ## 6.0.1
@@ -2020,7 +2020,7 @@
 - Updated dependencies [a763058]
 - Updated dependencies [581f4a5]
   - fumadocs-core@15.0.0
-  - fumadocs-ui@15.0.0
+  - @fumadocs/base-ui@15.0.0
 
 ## 5.11.8
 
@@ -2029,7 +2029,7 @@
 - Updated dependencies [4f2538a]
 - Updated dependencies [191012a]
 - Updated dependencies [fb6b168]
-  - fumadocs-ui@14.7.7
+  - @fumadocs/base-ui@14.7.7
   - fumadocs-core@14.7.7
 
 ## 5.11.7
@@ -2039,7 +2039,7 @@
 - b9601fb: Update Shiki
 - Updated dependencies [b9601fb]
   - fumadocs-core@14.7.6
-  - fumadocs-ui@14.7.6
+  - @fumadocs/base-ui@14.7.6
 
 ## 5.11.6
 
@@ -2049,7 +2049,7 @@
 - Updated dependencies [777188b]
 - Updated dependencies [900eb6c]
 - Updated dependencies [a959374]
-  - fumadocs-ui@14.7.5
+  - @fumadocs/base-ui@14.7.5
   - fumadocs-core@14.7.5
 
 ## 5.11.5
@@ -2060,7 +2060,7 @@
 - Updated dependencies [036f8e1]
 - Updated dependencies [bb73a72]
 - Updated dependencies [69bd4fe]
-  - fumadocs-ui@14.7.4
+  - @fumadocs/base-ui@14.7.4
   - fumadocs-core@14.7.4
 
 ## 5.11.4
@@ -2071,7 +2071,7 @@
 - Updated dependencies [041f230]
 - Updated dependencies [ca1cf19]
   - fumadocs-core@14.7.3
-  - fumadocs-ui@14.7.3
+  - @fumadocs/base-ui@14.7.3
 
 ## 5.11.3
 
@@ -2086,7 +2086,7 @@
 - 60fe635: Support variable server url
 - Updated dependencies [14b280c]
   - fumadocs-core@14.7.2
-  - fumadocs-ui@14.7.2
+  - @fumadocs/base-ui@14.7.2
 
 ## 5.11.1
 
@@ -2095,7 +2095,7 @@
 - Updated dependencies [72dc093]
 - Updated dependencies [18b00c1]
   - fumadocs-core@14.7.1
-  - fumadocs-ui@14.7.1
+  - @fumadocs/base-ui@14.7.1
 
 ## 5.11.0
 
@@ -2108,7 +2108,7 @@
 - 698b385: Fix switcher default value being ignored
 - Updated dependencies [a557bb4]
 - Updated dependencies [97ed36c]
-  - fumadocs-ui@14.7.0
+  - @fumadocs/base-ui@14.7.0
   - fumadocs-core@14.7.0
 
 ## 5.10.6
@@ -2117,7 +2117,7 @@
 
 - Updated dependencies [e95be52]
 - Updated dependencies [f3298ea]
-  - fumadocs-ui@14.6.8
+  - @fumadocs/base-ui@14.6.8
   - fumadocs-core@14.6.8
 
 ## 5.10.5
@@ -2126,14 +2126,14 @@
 
 - Updated dependencies [5474343]
   - fumadocs-core@14.6.7
-  - fumadocs-ui@14.6.7
+  - @fumadocs/base-ui@14.6.7
 
 ## 5.10.4
 
 ### Patch Changes
 
 - Updated dependencies [9c930ea]
-  - fumadocs-ui@14.6.6
+  - @fumadocs/base-ui@14.6.6
   - fumadocs-core@14.6.6
 
 ## 5.10.3
@@ -2142,7 +2142,7 @@
 
 - Updated dependencies [969da26]
   - fumadocs-core@14.6.5
-  - fumadocs-ui@14.6.5
+  - @fumadocs/base-ui@14.6.5
 
 ## 5.10.2
 
@@ -2152,14 +2152,14 @@
 - Updated dependencies [67124b1]
 - Updated dependencies [1810868]
   - fumadocs-core@14.6.4
-  - fumadocs-ui@14.6.4
+  - @fumadocs/base-ui@14.6.4
 
 ## 5.10.1
 
 ### Patch Changes
 
 - Updated dependencies [abc3677]
-  - fumadocs-ui@14.6.3
+  - @fumadocs/base-ui@14.6.3
   - fumadocs-core@14.6.3
 
 ## 5.10.0
@@ -2175,7 +2175,7 @@
 - Updated dependencies [2357d40]
 - Updated dependencies [ece734f]
 - Updated dependencies [1a2597a]
-  - fumadocs-ui@14.6.2
+  - @fumadocs/base-ui@14.6.2
   - fumadocs-core@14.6.2
 
 ## 5.9.0
@@ -2187,7 +2187,7 @@
 ### Patch Changes
 
 - Updated dependencies [9532855]
-  - fumadocs-ui@14.6.1
+  - @fumadocs/base-ui@14.6.1
   - fumadocs-core@14.6.1
 
 ## 5.8.2
@@ -2202,7 +2202,7 @@
 - Updated dependencies [bebb16b]
 - Updated dependencies [4766292]
 - Updated dependencies [050b326]
-  - fumadocs-ui@14.6.0
+  - @fumadocs/base-ui@14.6.0
   - fumadocs-core@14.6.0
 
 ## 5.8.1
@@ -2211,7 +2211,7 @@
 
 - Updated dependencies [b7745f4]
 - Updated dependencies [9a18c14]
-  - fumadocs-ui@14.5.6
+  - @fumadocs/base-ui@14.5.6
   - fumadocs-core@14.5.6
 
 ## 5.8.0
@@ -2225,7 +2225,7 @@
 
 - Updated dependencies [06f66d8]
 - Updated dependencies [2d0501f]
-  - fumadocs-ui@14.5.5
+  - @fumadocs/base-ui@14.5.5
   - fumadocs-core@14.5.5
 
 ## 5.7.5
@@ -2233,7 +2233,7 @@
 ### Patch Changes
 
 - Updated dependencies [8e2cb31]
-  - fumadocs-ui@14.5.4
+  - @fumadocs/base-ui@14.5.4
   - fumadocs-core@14.5.4
 
 ## 5.7.4
@@ -2245,7 +2245,7 @@
 - Updated dependencies [4c82a3d]
 - Updated dependencies [f8e5157]
 - Updated dependencies [ad00dd3]
-  - fumadocs-ui@14.5.3
+  - @fumadocs/base-ui@14.5.3
   - fumadocs-core@14.5.3
 
 ## 5.7.3
@@ -2253,7 +2253,7 @@
 ### Patch Changes
 
 - Updated dependencies [072e349]
-  - fumadocs-ui@14.5.2
+  - @fumadocs/base-ui@14.5.2
   - fumadocs-core@14.5.2
 
 ## 5.7.2
@@ -2261,7 +2261,7 @@
 ### Patch Changes
 
 - Updated dependencies [6fd480f]
-  - fumadocs-ui@14.5.1
+  - @fumadocs/base-ui@14.5.1
   - fumadocs-core@14.5.1
 
 ## 5.7.1
@@ -2270,7 +2270,7 @@
 
 - Updated dependencies [66c70ec]
 - Updated dependencies [05d224c]
-  - fumadocs-ui@14.5.0
+  - @fumadocs/base-ui@14.5.0
   - fumadocs-core@14.5.0
 
 ## 5.7.0
@@ -2285,7 +2285,7 @@
 ### Patch Changes
 
 - Updated dependencies [0f1603a]
-  - fumadocs-ui@14.4.2
+  - @fumadocs/base-ui@14.4.2
   - fumadocs-core@14.4.2
 
 ## 5.6.1
@@ -2294,7 +2294,7 @@
 
 - Updated dependencies [07474cb]
 - Updated dependencies [48a2c15]
-  - fumadocs-ui@14.4.1
+  - @fumadocs/base-ui@14.4.1
   - fumadocs-core@14.4.1
 
 ## 5.6.0
@@ -2318,7 +2318,7 @@
 - Updated dependencies [5145123]
 - Updated dependencies [64defe0]
 - Updated dependencies [8a3f5b0]
-  - fumadocs-ui@14.4.0
+  - @fumadocs/base-ui@14.4.0
   - fumadocs-core@14.4.0
 
 ## 5.5.9
@@ -2326,7 +2326,7 @@
 ### Patch Changes
 
 - Updated dependencies [e7443d7]
-  - fumadocs-ui@14.3.1
+  - @fumadocs/base-ui@14.3.1
   - fumadocs-core@14.3.1
 
 ## 5.5.8
@@ -2336,7 +2336,7 @@
 - 4e76165: Fix rendering of OpenAPI nullable defined with `allOf`.
 - Updated dependencies [80655b3]
 - Updated dependencies [b8a12ed]
-  - fumadocs-ui@14.3.0
+  - @fumadocs/base-ui@14.3.0
   - fumadocs-core@14.3.0
 
 ## 5.5.7
@@ -2346,7 +2346,7 @@
 - Updated dependencies [ca94bfd]
 - Updated dependencies [2949da3]
   - fumadocs-core@14.2.1
-  - fumadocs-ui@14.2.1
+  - @fumadocs/base-ui@14.2.1
 
 ## 5.5.6
 
@@ -2355,7 +2355,7 @@
 - Updated dependencies [e248a0f]
 - Updated dependencies [7a5393b]
   - fumadocs-core@14.2.0
-  - fumadocs-ui@14.2.0
+  - @fumadocs/base-ui@14.2.0
 
 ## 5.5.5
 
@@ -2363,7 +2363,7 @@
 
 - Updated dependencies [1573d63]
   - fumadocs-core@14.1.1
-  - fumadocs-ui@14.1.1
+  - @fumadocs/base-ui@14.1.1
 
 ## 5.5.4
 
@@ -2377,7 +2377,7 @@
 - Updated dependencies [b262d99]
 - Updated dependencies [90725c1]
   - fumadocs-core@14.1.0
-  - fumadocs-ui@14.1.0
+  - @fumadocs/base-ui@14.1.0
 
 ## 5.5.3
 
@@ -2390,7 +2390,7 @@
 ### Patch Changes
 
 - Updated dependencies [bfc2bf2]
-  - fumadocs-ui@14.0.2
+  - @fumadocs/base-ui@14.0.2
   - fumadocs-core@14.0.2
 
 ## 5.5.1
@@ -2398,7 +2398,7 @@
 ### Patch Changes
 
 - Updated dependencies [1a7d78a]
-  - fumadocs-ui@14.0.1
+  - @fumadocs/base-ui@14.0.1
   - fumadocs-core@14.0.1
 
 ## 5.5.0
@@ -2448,7 +2448,7 @@
 - Updated dependencies [be53a0e]
 - Updated dependencies [d9e908e]
   - fumadocs-core@14.0.0
-  - fumadocs-ui@14.0.0
+  - @fumadocs/base-ui@14.0.0
 
 ## 5.4.14
 
@@ -2457,7 +2457,7 @@
 - Updated dependencies [6231ad3]
 - Updated dependencies [4cb74d5]
   - fumadocs-core@13.4.10
-  - fumadocs-ui@13.4.10
+  - @fumadocs/base-ui@13.4.10
 
 ## 5.4.13
 
@@ -2466,7 +2466,7 @@
 - Updated dependencies [083f04a]
 - Updated dependencies [bcf51a6]
   - fumadocs-core@13.4.9
-  - fumadocs-ui@13.4.9
+  - @fumadocs/base-ui@13.4.9
 
 ## 5.4.12
 
@@ -2475,7 +2475,7 @@
 - Updated dependencies [5581733]
 - Updated dependencies [78e59e7]
 - Updated dependencies [1a327cc]
-  - fumadocs-ui@13.4.8
+  - @fumadocs/base-ui@13.4.8
   - fumadocs-core@13.4.8
 
 ## 5.4.11
@@ -2486,7 +2486,7 @@
 - Updated dependencies [6e1923e]
 - Updated dependencies [6e1923e]
   - fumadocs-core@13.4.7
-  - fumadocs-ui@13.4.7
+  - @fumadocs/base-ui@13.4.7
 
 ## 5.4.10
 
@@ -2496,7 +2496,7 @@
 - Updated dependencies [afb697e]
 - Updated dependencies [6bcd263]
 - Updated dependencies [daa66d2]
-  - fumadocs-ui@13.4.6
+  - @fumadocs/base-ui@13.4.6
   - fumadocs-core@13.4.6
 
 ## 5.4.9
@@ -2505,7 +2505,7 @@
 
 - 5bca46f: Support removing all code samples
 - Updated dependencies [d46a3f1]
-  - fumadocs-ui@13.4.5
+  - @fumadocs/base-ui@13.4.5
   - fumadocs-core@13.4.5
 
 ## 5.4.8
@@ -2514,14 +2514,14 @@
 
 - Updated dependencies [729928e]
   - fumadocs-core@13.4.4
-  - fumadocs-ui@13.4.4
+  - @fumadocs/base-ui@13.4.4
 
 ## 5.4.7
 
 ### Patch Changes
 
 - fumadocs-core@13.4.3
-- fumadocs-ui@13.4.3
+- @fumadocs/base-ui@13.4.3
 
 ## 5.4.6
 
@@ -2535,7 +2535,7 @@
 - Updated dependencies [0c251e5]
 - Updated dependencies [0c251e5]
   - fumadocs-core@13.4.2
-  - fumadocs-ui@13.4.2
+  - @fumadocs/base-ui@13.4.2
 
 ## 5.4.5
 
@@ -2543,14 +2543,14 @@
 
 - Updated dependencies [95dbba1]
   - fumadocs-core@13.4.1
-  - fumadocs-ui@13.4.1
+  - @fumadocs/base-ui@13.4.1
 
 ## 5.4.4
 
 ### Patch Changes
 
 - Updated dependencies [26f5360]
-  - fumadocs-ui@13.4.0
+  - @fumadocs/base-ui@13.4.0
   - fumadocs-core@13.4.0
 
 ## 5.4.3
@@ -2559,7 +2559,7 @@
 
 - Updated dependencies [f8cc167]
   - fumadocs-core@13.3.3
-  - fumadocs-ui@13.3.3
+  - @fumadocs/base-ui@13.3.3
 
 ## 5.4.2
 
@@ -2605,7 +2605,7 @@
 - 10f6f39: Fix common parameters
 - Updated dependencies [17746a6]
 - Updated dependencies [0e0ef8c]
-  - fumadocs-ui@13.3.2
+  - @fumadocs/base-ui@13.3.2
   - fumadocs-core@13.3.2
 
 ## 5.2.2
@@ -2613,7 +2613,7 @@
 ### Patch Changes
 
 - Updated dependencies [7258c4b]
-  - fumadocs-ui@13.3.1
+  - @fumadocs/base-ui@13.3.1
   - fumadocs-core@13.3.1
 
 ## 5.2.1
@@ -2630,7 +2630,7 @@
 - Updated dependencies [32ca37a]
 - Updated dependencies [9aae448]
 - Updated dependencies [c542561]
-  - fumadocs-ui@13.3.0
+  - @fumadocs/base-ui@13.3.0
   - fumadocs-core@13.3.0
 
 ## 5.2.0
@@ -2645,7 +2645,7 @@
 - Updated dependencies [36b771b]
 - Updated dependencies [61b91fa]
   - fumadocs-core@13.2.2
-  - fumadocs-ui@13.2.2
+  - @fumadocs/base-ui@13.2.2
 
 ## 5.1.0
 
@@ -2657,7 +2657,7 @@
 
 - Updated dependencies [17fa173]
   - fumadocs-core@13.2.1
-  - fumadocs-ui@13.2.1
+  - @fumadocs/base-ui@13.2.1
 
 ## 5.0.3
 
@@ -2670,7 +2670,7 @@
 - Updated dependencies [96c9dda]
 - Updated dependencies [ec983a3]
   - fumadocs-core@13.2.0
-  - fumadocs-ui@13.2.0
+  - @fumadocs/base-ui@13.2.0
 
 ## 5.0.2
 
@@ -2731,7 +2731,7 @@
 - Updated dependencies [c8910c4]
 - Updated dependencies [6c42960]
   - fumadocs-core@13.1.0
-  - fumadocs-ui@13.1.0
+  - @fumadocs/base-ui@13.1.0
 
 ## 4.4.2
 
@@ -2740,14 +2740,14 @@
 - Updated dependencies [37bbfff]
 - Updated dependencies [e7c52f2]
   - fumadocs-core@13.0.7
-  - fumadocs-ui@13.0.7
+  - @fumadocs/base-ui@13.0.7
 
 ## 4.4.1
 
 ### Patch Changes
 
 - Updated dependencies [1622e36]
-  - fumadocs-ui@13.0.6
+  - @fumadocs/base-ui@13.0.6
   - fumadocs-core@13.0.6
 
 ## 4.4.0
@@ -2760,7 +2760,7 @@
 
 - Updated dependencies [2cf65f6]
   - fumadocs-core@13.0.5
-  - fumadocs-ui@13.0.5
+  - @fumadocs/base-ui@13.0.5
 
 ## 4.3.1
 
@@ -2782,7 +2782,7 @@
 - 744bd24: Fix generate files on `operation` mode
 - Updated dependencies [5355391]
   - fumadocs-core@13.0.4
-  - fumadocs-ui@13.0.4
+  - @fumadocs/base-ui@13.0.4
 
 ## 4.2.2
 
@@ -2790,7 +2790,7 @@
 
 - Updated dependencies [978342f]
   - fumadocs-core@13.0.3
-  - fumadocs-ui@13.0.3
+  - @fumadocs/base-ui@13.0.3
 
 ## 4.2.1
 
@@ -2798,7 +2798,7 @@
 
 - Updated dependencies [4819820]
   - fumadocs-core@13.0.2
-  - fumadocs-ui@13.0.2
+  - @fumadocs/base-ui@13.0.2
 
 ## 4.2.0
 
@@ -2815,7 +2815,7 @@
 ### Patch Changes
 
 - fumadocs-core@13.0.1
-- fumadocs-ui@13.0.1
+- @fumadocs/base-ui@13.0.1
 
 ## 4.1.0
 
@@ -2843,7 +2843,7 @@
 - Updated dependencies [b02eebf]
 - Updated dependencies [b02eebf]
 - Updated dependencies [4373231]
-  - fumadocs-ui@13.0.0
+  - @fumadocs/base-ui@13.0.0
   - fumadocs-core@13.0.0
 
 ## 4.0.6
@@ -2851,7 +2851,7 @@
 ### Patch Changes
 
 - Updated dependencies [a332bee]
-  - fumadocs-ui@12.5.6
+  - @fumadocs/base-ui@12.5.6
   - fumadocs-core@12.5.6
 
 ## 4.0.5
@@ -2859,7 +2859,7 @@
 ### Patch Changes
 
 - Updated dependencies [3519e6c]
-  - fumadocs-ui@12.5.5
+  - @fumadocs/base-ui@12.5.5
   - fumadocs-core@12.5.5
 
 ## 4.0.4
@@ -2869,14 +2869,14 @@
 - Updated dependencies [fccdfdb]
 - Updated dependencies [2ffd5ea]
   - fumadocs-core@12.5.4
-  - fumadocs-ui@12.5.4
+  - @fumadocs/base-ui@12.5.4
 
 ## 4.0.3
 
 ### Patch Changes
 
 - Updated dependencies [5d963f4]
-  - fumadocs-ui@12.5.3
+  - @fumadocs/base-ui@12.5.3
 
 ## 4.0.2
 
@@ -2884,7 +2884,7 @@
 
 - 0c8eddf: Fix overlap of navbar and api info
 - Updated dependencies [a5c34f0]
-  - fumadocs-ui@12.5.2
+  - @fumadocs/base-ui@12.5.2
 
 ## 4.0.1
 
@@ -2892,13 +2892,13 @@
 
 - Updated dependencies [c5d20d0]
 - Updated dependencies [3d8f6cf]
-  - fumadocs-ui@12.5.1
+  - @fumadocs/base-ui@12.5.1
 
 ## 4.0.0
 
 ### Major Changes
 
-- ad143e1: Move UI implementation from `fumadocs-ui` to `fumadocs-openapi`.
+- ad143e1: Move UI implementation from `@fumadocs/base-ui` to `fumadocs-openapi`.
 
   **why:** Allow a better organization of packages.
 
@@ -2909,12 +2909,12 @@
   Add the package to `content` under your Tailwind CSS configuration.
 
   ```js
-  import { createPreset, presets } from "fumadocs-ui/tailwind-plugin";
+  import { createPreset, presets } from "@fumadocs/base-ui/tailwind-plugin";
 
   /** @type {import('tailwindcss').Config} */
   export default {
     content: [
-      "./node_modules/fumadocs-ui/dist/**/*.js",
+      "./node_modules/@fumadocs/base-ui/dist/**/*.js",
       "./node_modules/fumadocs-openapi/dist/**/*.js",
     ],
     presets: [createPreset()],
@@ -2934,7 +2934,7 @@
 - Updated dependencies [b9fa99d]
 - Updated dependencies [a4bcaa7]
 - Updated dependencies [d1c7405]
-  - fumadocs-ui@12.5.0
+  - @fumadocs/base-ui@12.5.0
 
 ## 3.3.0
 
@@ -3143,7 +3143,7 @@
 
   `next-docs-zeta` -> `fumadocs-core`
 
-  `next-docs-ui` -> `fumadocs-ui`
+  `next-docs-ui` -> `@fumadocs/base-ui`
 
   `next-docs-mdx` -> `fumadocs-mdx`
 

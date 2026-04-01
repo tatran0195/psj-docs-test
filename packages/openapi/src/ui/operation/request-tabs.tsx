@@ -10,7 +10,7 @@ import {
 } from '@/ui/components/accordion';
 import type { ReactNode } from 'react';
 import type { RawRequestData } from '@/requests/types';
-import { Tabs, TabsContent, TabsList, TabsTrigger } from 'fumadocs-ui/components/tabs';
+import { Tabs, TabsContent, TabsList, TabsTrigger } from '@fumadocs/base-ui/components/tabs';
 import { resolveRequestData } from '@/utils/url';
 import { MethodLabel } from '../components/method-label';
 import type { ExampleRequestItem } from './get-example-requests';

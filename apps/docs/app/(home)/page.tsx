@@ -12,7 +12,7 @@ import {
   TimerIcon,
 } from 'lucide-react';
 import { Marquee } from '@/app/(home)/marquee';
-import { ServerCodeBlock } from 'fumadocs-ui/components/codeblock.rsc';
+import { ServerCodeBlock } from '@fumadocs/base-ui/components/codeblock.rsc';
 import {
   Hero,
   AgnosticBackground,
@@ -26,7 +26,6 @@ import { owner, repo } from '@/lib/github';
 import StoryImage from './story.png';
 import CLIImage from './cli.png';
 import Bg2Image from './bg-2.png';
-import { story } from '@/content/docs/(framework)/integrations/story';
 
 const headingVariants = cva('font-medium tracking-tight', {
   variants: {
@@ -84,7 +83,7 @@ export default function Page() {
               Getting Started
             </Link>
             <a
-              href="https://codesandbox.io/p/sandbox/github/fuma-nama/fumadocs-ui-template"
+              href="https://codesandbox.io/p/sandbox/github/fuma-nama/@fumadocs/base-ui-template"
               target="_blank"
               rel="noreferrer noopener"
               className={cn(buttonVariants({ variant: 'secondary' }), 'max-sm:text-sm')}
@@ -177,7 +176,6 @@ function Story() {
             Explore
           </Link>
         </div>
-        <story.WithControl />
       </div>
     </div>
   );
@@ -529,7 +527,7 @@ function ForEngineers() {
               description: 'Headless library for building docs + handling content.',
             },
             {
-              name: 'fumadocs-ui',
+              name: '@fumadocs/base-ui',
               description: 'UI library for building docs.',
             },
             {

@@ -11,7 +11,7 @@ import { Input, labelVariants } from '@/ui/components/input';
 import { useQuery } from '@/utils/use-query';
 import { type ReactNode, useEffect, useMemo, useState } from 'react';
 import { cn } from '@/utils/cn';
-import { buttonVariants } from 'fumadocs-ui/components/ui/button';
+import { buttonVariants } from '@fumadocs/base-ui/components/ui/button';
 import {
   Select,
   SelectContent,

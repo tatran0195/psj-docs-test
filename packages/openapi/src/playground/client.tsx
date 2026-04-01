@@ -20,10 +20,10 @@ import {
   Collapsible,
   CollapsibleContent,
   CollapsibleTrigger,
-} from 'fumadocs-ui/components/ui/collapsible';
+} from '@fumadocs/base-ui/components/ui/collapsible';
 import { ChevronDown, LoaderCircle } from 'lucide-react';
 import { encodeRequestData } from '@/requests/media/encode';
-import { buttonVariants } from 'fumadocs-ui/components/ui/button';
+import { buttonVariants } from '@fumadocs/base-ui/components/ui/button';
 import { cn } from '@/utils/cn';
 import { anyFields, SchemaProvider, SchemaScope, useResolvedSchema } from '@/playground/schema';
 import {

@@ -12,14 +12,14 @@ import {
   SearchDialogOverlay,
   type SearchItemType,
   type SharedProps,
-} from 'fumadocs-ui/components/dialog/search';
+} from '@fumadocs/base-ui/components/dialog/search';
 import { useDocsSearch } from 'fumadocs-core/search/client';
 import { useMemo, useState } from 'react';
-import { Popover, PopoverContent, PopoverTrigger } from 'fumadocs-ui/components/ui/popover';
+import { Popover, PopoverContent, PopoverTrigger } from '@fumadocs/base-ui/components/ui/popover';
 import { ArrowRight, ChevronDown } from 'lucide-react';
-import { buttonVariants } from 'fumadocs-ui/components/ui/button';
+import { buttonVariants } from '@fumadocs/base-ui/components/ui/button';
 import { cn } from '@/lib/cn';
-import { useTreeContext } from 'fumadocs-ui/contexts/tree';
+import { useTreeContext } from '@fumadocs/base-ui/contexts/tree';
 import type { Item, Node } from 'fumadocs-core/page-tree';
 import { useRouter } from 'next/navigation';
 import { orama } from '@/lib/orama/client';

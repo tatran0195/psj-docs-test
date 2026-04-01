@@ -1,5 +1,5 @@
-import { Tabs, TabsContent, TabsList, TabsTrigger } from 'fumadocs-ui/components/ui/tabs';
-import { ServerCodeBlock } from 'fumadocs-ui/components/codeblock.rsc';
+import { Tabs, TabsContent, TabsList, TabsTrigger } from '@fumadocs/base-ui/components/ui/tabs';
+import { ServerCodeBlock } from '@fumadocs/base-ui/components/codeblock.rsc';
 
 export function Installation({ name }: { name: string }) {
   const tabs = [{ name: 'Fumadocs CLI', value: 'fumadocs-cli' }];

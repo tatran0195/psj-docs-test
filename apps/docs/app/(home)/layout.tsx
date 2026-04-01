@@ -1,11 +1,11 @@
-import { HomeLayout } from 'fumadocs-ui/layouts/home';
+import { HomeLayout } from '@fumadocs/base-ui/layouts/home';
 import { baseOptions, linkItems } from '@/components/layouts/shared';
 import {
   NavbarMenu,
   NavbarMenuContent,
   NavbarMenuLink,
   NavbarMenuTrigger,
-} from 'fumadocs-ui/layouts/home/navbar';
+} from '@fumadocs/base-ui/layouts/home/navbar';
 import Link from 'fumadocs-core/link';
 import Image from 'next/image';
 import Preview from '@/public/banner.png';

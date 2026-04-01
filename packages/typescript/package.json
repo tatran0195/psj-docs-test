@@ -47,7 +47,7 @@
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
     "fumadocs-core": "16.7.7",
-    "fumadocs-ui": "16.7.7",
+    "@fumadocs/base-ui": "16.7.7",
     "mdast-util-mdx": "^3.0.0",
     "shiki": "^4.0.2",
     "tsconfig": "workspace:*",
@@ -61,7 +61,7 @@
     "@types/mdast": "*",
     "@types/react": "*",
     "fumadocs-core": "^16.7.0",
-    "fumadocs-ui": "^16.7.0",
+    "@fumadocs/base-ui": "^16.7.0",
     "react": "*",
     "shiki": "*",
     "typescript": "*"
@@ -79,7 +79,7 @@
     "@types/mdast": {
       "optional": true
     },
-    "fumadocs-ui": {
+    "@fumadocs/base-ui": {
       "optional": true
     },
     "@types/react": {

@@ -2,9 +2,9 @@
 import type * as PageTree from 'fumadocs-core/page-tree';
 import { type ComponentProps, createContext, type ReactNode, use, useMemo, useState } from 'react';
 import { cn } from '@/lib/cn';
-import { TreeContextProvider, useTreeContext } from 'fumadocs-ui/contexts/tree';
+import { TreeContextProvider, useTreeContext } from '@fumadocs/base-ui/contexts/tree';
 import Link from 'fumadocs-core/link';
-import { useSearchContext } from 'fumadocs-ui/contexts/search';
+import { useSearchContext } from '@fumadocs/base-ui/contexts/search';
 import { cva } from 'class-variance-authority';
 import { usePathname } from 'fumadocs-core/framework';
 

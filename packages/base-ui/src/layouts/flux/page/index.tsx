@@ -80,7 +80,7 @@ export function useDocsPage() {
   const context = use(PageContext);
   if (!context)
     throw new Error(
-      'Please use page components under <DocsPage /> (`fumadocs-ui/layouts/flux/page`).',
+      'Please use page components under <DocsPage /> (`@fumadocs/base-ui/layouts/flux/page`).',
     );
   return context;
 }

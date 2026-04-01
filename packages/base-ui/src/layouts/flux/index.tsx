@@ -70,7 +70,7 @@ export function useFluxLayout() {
   const context = use(LayoutContext);
   if (!context)
     throw new Error(
-      'Please use Flux layout components under <DocsLayout /> (`fumadocs-ui/layouts/flux`).',
+      'Please use Flux layout components under <DocsLayout /> (`@fumadocs/base-ui/layouts/flux`).',
     );
   return context;
 }

@@ -1,6 +1,6 @@
 'use client';
 import { cn } from '@/lib/cn';
-import { buttonVariants } from 'fumadocs-ui/components/ui/button';
+import { buttonVariants } from '@fumadocs/base-ui/components/ui/button';
 import { CornerDownRightIcon, MessageSquare, ThumbsDown, ThumbsUp } from 'lucide-react';
 import {
   ReactNode,
@@ -10,10 +10,10 @@ import {
   useState,
   useTransition,
 } from 'react';
-import { Collapsible, CollapsibleContent } from 'fumadocs-ui/components/ui/collapsible';
+import { Collapsible, CollapsibleContent } from '@fumadocs/base-ui/components/ui/collapsible';
 import { cva } from 'class-variance-authority';
 import { usePathname } from 'next/navigation';
-import { Popover, PopoverContent, PopoverTrigger } from 'fumadocs-ui/components/ui/popover';
+import { Popover, PopoverContent, PopoverTrigger } from '@fumadocs/base-ui/components/ui/popover';
 import type { FeedbackBlockProps } from 'fumadocs-core/mdx-plugins/remark-feedback-block';
 import {
   actionResponse,
